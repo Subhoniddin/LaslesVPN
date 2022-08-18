@@ -14,9 +14,15 @@
                     </p>
                 </div>
                 <div class="flex w-[180px] justify-between items-center pb-5 pt-8">
-                    <div class="w-[50px] h-[50px] shadow-xl shadow-gray-300 rounded-full"><img class="w-[50px] h-[50px] bg-red-600 rounded-full" src="@/assets/facebook.png" alt=""></div>
-                    <div class="w-[50px] h-[50px] shadow-xl shadow-gray-300 rounded-full"><img class="w-[50px] h-[50px] bg-red-600 rounded-full" src="@/assets/instagram.png" alt=""></div>
-                    <div class="w-[50px] h-[50px] shadow-xl shadow-gray-300 rounded-full"><img class="w-[50px] h-[50px] bg-red-600 rounded-full" src="@/assets/twitter.png" alt=""></div>
+                    <div class="w-[50px] h-[50px] shadow-xl shadow-gray-300 rounded-full">
+                        <img class="w-[50px] h-[50px] bg-red-600 rounded-full" 
+                        src="@/assets/facebook.png" alt=""></div>
+                    <div class="w-[50px] h-[50px] shadow-xl shadow-gray-300 rounded-full">
+                        <img class="w-[50px] h-[50px] bg-red-600 rounded-full" 
+                        src="@/assets/instagram.png" alt=""></div>
+                    <div class="w-[50px] h-[50px] shadow-xl shadow-gray-300 rounded-full">
+                        <img class="w-[50px] h-[50px] bg-red-600 rounded-full" 
+                        src="@/assets/twitter.png" alt=""></div>
                 </div>
                 <div class="pt-8">
                     <p>©2020LaslesVPN</p>
@@ -55,7 +61,7 @@
 </template>
 <script>
 export default {
-    
+
 }
 </script>
 <style lang="">
