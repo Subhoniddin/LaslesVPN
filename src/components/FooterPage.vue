@@ -2,7 +2,7 @@
     <footer class="flex sm:w-4/5 mx-auto pt-20 justify-between pb-20">
             <div class="flex-col md:w-[700px] sm:w-[100px] h-auto">
                 <div class="flex ">
-                    <img src="./assets/Vector.png" alt="">
+                    <img src="@/assets/Vector.png" alt="">
                     <p class="font-bold md:text-2xl sm:text-xl m-2 ">
                     LaslesVPN
                     </p>
@@ -14,9 +14,9 @@
                     </p>
                 </div>
                 <div class="flex w-[180px] justify-between items-center pb-5 pt-8">
-                    <div class="w-[50px] h-[50px] shadow-xl shadow-gray-300 rounded-full"><img class="w-[50px] h-[50px] bg-red-600 rounded-full" src="./assets/facebook.png" alt=""></div>
-                    <div class="w-[50px] h-[50px] shadow-xl shadow-gray-300 rounded-full"><img class="w-[50px] h-[50px] bg-red-600 rounded-full" src="./assets/instagram.png" alt=""></div>
-                    <div class="w-[50px] h-[50px] shadow-xl shadow-gray-300 rounded-full"><img class="w-[50px] h-[50px] bg-red-600 rounded-full" src="./assets/twitter.png" alt=""></div>
+                    <div class="w-[50px] h-[50px] shadow-xl shadow-gray-300 rounded-full"><img class="w-[50px] h-[50px] bg-red-600 rounded-full" src="@/assets/facebook.png" alt=""></div>
+                    <div class="w-[50px] h-[50px] shadow-xl shadow-gray-300 rounded-full"><img class="w-[50px] h-[50px] bg-red-600 rounded-full" src="@/assets/instagram.png" alt=""></div>
+                    <div class="w-[50px] h-[50px] shadow-xl shadow-gray-300 rounded-full"><img class="w-[50px] h-[50px] bg-red-600 rounded-full" src="@/assets/twitter.png" alt=""></div>
                 </div>
                 <div class="pt-8">
                     <p>©2020LaslesVPN</p>

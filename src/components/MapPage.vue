@@ -10,23 +10,23 @@
             </div>
          </div>
          <div class="w-4/5 mx-auto flex">
-             <img class="w-full" src="./assets/map.png" alt=""/>
+             <img class="w-full" src="@/assets/map.png" alt=""/>
          </div>
           <div class="flex justify-between w-4/5 mx-auto">
                 <div>
-                    <img src="./assets/netflix.png" alt="">
+                    <img src="@/assets/netflix.png" alt="">
                 </div>
                 <div>
-                    <img src="./assets/reddit.png" alt="">
+                    <img src="@/assets/reddit.png" alt="">
                 </div>
                 <div>
-                    <img src="./assets/amazon.png" alt="">
+                    <img src="@/assets/amazon.png" alt="">
                 </div>
                 <div>
-                    <img src="./assets/discord.png" alt="">
+                    <img src="@/assets/discord.png" alt="">
                 </div>
                 <div>
-                    <img src="./assets/spotify.png" alt="">
+                    <img src="@/assets/spotify.png" alt="">
                 </div>
             </div>
 </template>
