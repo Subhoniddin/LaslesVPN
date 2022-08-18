@@ -29,7 +29,6 @@
           </button>
         </div>
       </div>
-
       <!-- Mobile Menu open: "block", Menu closed: "hidden" -->
       <ul :class="showMenu ? 'flex' : 'hidden'" class="
           flex-col
@@ -37,8 +36,9 @@
           space-y-4
           md:flex md:space-y-0 md:flex-row md:items-center md:space-x-10 md:mt-0" v-for="link in links"
         :key="link.name">
-        <li   class="text-black hover:text-black-400"><a class="block w-[150px]" :class="link.classes" :href="link.href">{{ link.name }}</a></li> 
-      </ul>  
+        <li class="text-black hover:text-black-400"><a class="block w-[150px]" :class="link.classes"
+            :href="link.href">{{ link.name }}</a></li>
+      </ul>
     </nav>
   </div>
 </template>
