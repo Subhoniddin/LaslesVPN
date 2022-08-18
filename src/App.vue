@@ -6,6 +6,7 @@
      <fitures-page/> 
      <sale-page/>
      <map-page/>
+     <slider-page/>
      <pricing-page/>
      <subscribe-page/>
      <footer-page/>
@@ -21,9 +22,11 @@ import MapPage from '@/components/MapPage.vue';
 import PricingPage from '@/components/PricingPage.vue'
 import SubscribePage from '@/components/SubscribePage.vue'
 import FooterPage from '@/components/FooterPage.vue'
+import SliderPage from '@/components/SliderPage.vue'
 
 export default {
   components: {
+    SliderPage,
     AppBar,
     HomePage,
     RestaglePage,

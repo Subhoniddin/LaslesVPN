@@ -9,7 +9,7 @@
       <div class='flex justify-between w-96 items-center'>
       <div>About</div>
       <div>Fitures</div>
-      <div>Pricing</div>
+      <div>Fitures</div>
       <div>Testiomonials</div>
       <div>Help </div>
       </div>
